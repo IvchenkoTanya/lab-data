@@ -1,4 +1,4 @@
-
+{
 "data": {
     "id": 1,
     "url": "https://example.com/picture1.jpg"
@@ -11,3 +11,4 @@
     "id": 3,
     "url": "https://example.com/picture3.jpg"
   }
+}
